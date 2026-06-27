@@ -27,8 +27,7 @@ print("🎮 Modo: " .. (IsMobile and "TOUCH" : "TECLADO/MOUSE"))
 -- ============================================
 -- BIBLIOTECA DE INTERFACE (MOBILE FRIENDLY)
 -- ============================================
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/UI/Libraries/KavoUI.lua"))()
 -- ============================================
 -- VARÁVEIS GLOBAIS
 -- ============================================
